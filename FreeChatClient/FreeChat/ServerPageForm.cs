@@ -542,7 +542,7 @@ namespace FreeChat
                     const long maxFileSize = 500 * 1024; 
                     if (fileSize > maxFileSize)
                     {
-                        MessageBox.Show("Seçilen dosya 500KB'dan büyük. Lütfen daha küçük bir dosya seçin.", "Dosya Boyutu Hatası", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        MessageBox.Show("The selected file is larger than 500KB. Please select a smaller file.", "File Size Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         return; 
                     }
 
