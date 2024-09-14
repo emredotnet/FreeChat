@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emre\\Documents\\.Yaz\u0131l\u0131mProjeleriVS\\FreeChatServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD3D3BA-2832-4D30-8B14-1435A18A3730}|FreeChatServer\\FreeChatServer.csproj|c:\\users\\emre\\documents\\.yaz\u0131l\u0131mprojelerivs\\freechatserver\\freechatserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD3D3BA-2832-4D30-8B14-1435A18A3730}|FreeChatServer\\FreeChatServer.csproj|solutionrelative:freechatserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Documents\\.Yaz\u0131l\u0131mProjeleriVS\\FreeChatServer\\FreeChatServer\\Server.cs",
+              "RelativeDocumentMoniker": "FreeChatServer\\Server.cs",
+              "ToolTip": "C:\\Users\\emre\\Documents\\.Yaz\u0131l\u0131mProjeleriVS\\FreeChatServer\\FreeChatServer\\Server.cs",
+              "RelativeToolTip": "FreeChatServer\\Server.cs",
+              "ViewState": "AQIAAIwCAAAAAAAAAADwv6YCAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:42:47.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
