@@ -1,6 +1,6 @@
 # FreeChat
 
-Free Chat is a messaging application that you can host and use yourself.
+Free Chat is a messaging application that you can host and use.
 
 ## Features
 
